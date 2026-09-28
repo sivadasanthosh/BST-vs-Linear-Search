@@ -1,0 +1,17 @@
+Government Database - BST and Linear Search
+============================================
+
+Inorder Traversal:
+A102 A120 A25 A45 A7 B100 B12 B3
+
+BST Height: 5
+
+Search Comparison:
+---------------------------------------------
+Key     BST Comparisons    Linear Comparisons
+---------------------------------------------
+A7      3                  3
+B12     5                  5
+A120    3                  6
+B3      6                  7
+---------------------------------------------
